@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="u2_exam:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/u2_exam_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Keywordmanagement/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Keywordmanagement" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
